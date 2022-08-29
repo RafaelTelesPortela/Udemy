@@ -11,7 +11,7 @@ imprimirSoma();
 
 // Função com retorno
 
-function soma(a, b = 0){
+function soma(a, b = 1){
     return a + b;
 }
 
