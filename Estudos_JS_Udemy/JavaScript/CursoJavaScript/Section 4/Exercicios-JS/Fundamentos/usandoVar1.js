@@ -2,19 +2,19 @@
     {
         { 
             {
-                var sera = 'Será???';
-                console.log(sera);
+                var sera = 'Será???'
+                console.log(sera)
             }
         }
     }
 }
 
-console.log(sera);
+console.log(sera)
 
 function teste() {
-    var local = 123;
-    console.log(local);
+    var local = 123
+    console.log(local)
 }
 
-teste();
+teste()
 console.log(local)
